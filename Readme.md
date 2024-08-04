@@ -40,8 +40,3 @@ This project demonstrates how CNNs can be used for image-based gender recognitio
 ## Acknowledgments
 - [Kaggle](https://www.kaggle.com/) for providing the dataset.
 
-## License
-This project is licensed under the MIT License.
-```
-
-Feel free to customize this README.md file according to your project's specific details and preferences.
